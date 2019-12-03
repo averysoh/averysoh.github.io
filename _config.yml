@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
-locale: en_US
+title: Data Visualisation Workspace
+locale: en_UK
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Avery Soh
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "Visiting Lecturer at Cass Business School"
+  email: # Enter email
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: # No twitter
+  linkedin: avery-soh
+  github: averysoh
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -42,7 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
+# Note: initital highlight colour is: #cc0000
+highlight-color: '#106891'
 lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
